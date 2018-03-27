@@ -1,0 +1,1 @@
+Iterative folder contains an iterative version of a server client. The concurrent folder contains a server written in parallel that utilizes fifos to accept multiple clients at one time.

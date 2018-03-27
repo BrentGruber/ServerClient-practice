@@ -1,0 +1,96 @@
+Script started on Fri Nov 04 21:44:45 2016
+p2% ./tests.sh
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: remove
+Operation was successful
+
+Command Executed: add
+Operation was successful
+
+Command Executed: update
+Could not find event
+
+Command Executed: add
+Operation was successful
+
+Command Executed: update
+Operation was successful
+
+Command Executed: get
+
+User: tim
+Event: Seminar
+Start time: 1500
+End time: 1530
+MMDD: 316
+YY: 16
+command: get
+Server Response: 1
+
+Command Executed: get
+
+User: martin
+Event: Shopping
+Start time: 0800
+End time: 1130
+MMDD: 317
+YY: 16
+command: get
+Server Response: 1
+
+Command Executed: get
+
+User: steve
+Event: Test1
+Start time: 0900
+End time: 1100
+MMDD: 315
+YY: 16
+command: get
+Server Response: 2
+
+Command Executed: get
+
+User: steve
+Event: Meeting1
+Start time: 1300
+End time: 1400
+MMDD: 315
+YY: 16
+command: get
+Server Response: 2
+
+Command Executed: get
+
+User: steve
+Event: Class
+Start time: 1600
+End time: 1830
+MMDD: 315
+YY: 16
+command: get
+Server Response: 1
+
+p2% exit
+p2% 
+script done on Fri Nov 04 21:45:03 2016
